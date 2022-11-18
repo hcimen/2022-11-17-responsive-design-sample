@@ -8,8 +8,7 @@
   text-align:center;
   border:2px solid;
   border-color:black;
-  width: 35%;
-  margin: auto;
+  font-size: 36px;
 }
 
 a:link, a:visited  {
@@ -32,6 +31,7 @@ a:hover, a:active {
   float: center;
   height: 250px;
   vertical-align: middle;
+  font-size: 46px;
 }
 
 .main {
@@ -45,6 +45,7 @@ a:hover, a:active {
   border-color:black;
   height: 250px;
   overflow: auto;
+  font-size: large;
 }
 
 .rightbar {
@@ -57,12 +58,13 @@ a:hover, a:active {
   margin: auto;
   height: 250px;
   vertical-align: middle;
+  font-size: 40px;
 }
 
 .footer {
   color:white;
   background-color:brown;
-  text-align:center;
+  text-align:justified;
   border:2px solid;
   border-color:black;
   width: 35%;
